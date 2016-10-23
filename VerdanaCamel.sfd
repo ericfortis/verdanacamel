@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 777556905
-ModificationTime: 1475401288
+ModificationTime: 1477230879
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -58,8 +58,8 @@ OS2FamilyClass: 2048
 OS2Vendor: 'MS  '
 OS2CodePages: 2000019f.00000000
 OS2UnicodeRanges: a10006ff.4000205b.00000010.00000000
-Lookup: 1 0 0 "'rtla' Right to Left Alternates lookup 0" { "'rtla' Right to Left Alternates lookup 0 subtable"  } ['rtla' ('DFLT' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
 PUSHW_2
@@ -1603,31 +1603,31 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "+AKkA 2006 Microsoft Corporation. All Rights Reserved." "" "Regular" "FontForge 2.0 : VerdanaCamel : 2-10-2016" "" "Version 5.01x" "" "Verdana is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries." "Carter & Cone" "Matthew Carter" "" "" "" "You may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content." "http://www.microsoft.com/typography/fonts/"
-LangName: 1036 "" "" "Normal"
-LangName: 1031 "" "" "Standard"
-LangName: 1040 "" "" "Normale"
-LangName: 1043 "" "" "Standaard"
-LangName: 1053 "" "" "Normal"
-LangName: 1034 "" "" "Normal"
-LangName: 1030 "" "" "normal"
-LangName: 1046 "" "" "Normal"
-LangName: 1044 "" "" "Normal"
-LangName: 1035 "" "" "Normaali"
 LangName: 1055 "" "" "Normal"
-LangName: 1069 "" "" "Arrunta"
-LangName: 1027 "" "" "Normal"
-LangName: 1032 "" "" "+A5oDsQO9A78DvQO5A7oDrAAA"
-LangName: 1049 "" "" "+BB4EMQRLBEcEPQRLBDkA"
-LangName: 1045 "" "" "Normalny"
-LangName: 1038 "" "" "Norm+AOEA-l"
-LangName: 1029 "" "" "oby+AQ0A-ejn+AOkA"
-LangName: 1051 "" "" "Norm+AOEA-lne"
-LangName: 1060 "" "" "Navadno"
+LangName: 1053 "" "" "Normal"
 LangName: 2058 "" "" "Normal"
-LangName: 2070 "" "" "Normal"
+LangName: 1034 "" "" "Normal"
 LangName: 3082 "" "" "Normal"
+LangName: 1060 "" "" "Navadno"
+LangName: 1051 "" "" "Norm+AOEA-lne"
+LangName: 1049 "" "" "+BB4EMQRLBEcEPQRLBDkA"
+LangName: 1046 "" "" "Normal"
+LangName: 2070 "" "" "Normal"
+LangName: 1045 "" "" "Normalny"
+LangName: 1044 "" "" "Normal"
+LangName: 1040 "" "" "Normale"
+LangName: 1038 "" "" "Norm+AOEA-l"
+LangName: 1032 "" "" "+A5oDsQO9A78DvQO5A7oDrAAA"
+LangName: 1031 "" "" "Standard"
+LangName: 1036 "" "" "Normal"
 LangName: 3084 "" "" "Normal"
+LangName: 1035 "" "" "Normaali"
+LangName: 1043 "" "" "Standaard"
+LangName: 1030 "" "" "normal"
+LangName: 1029 "" "" "oby+AQ0A-ejn+AOkA"
+LangName: 1027 "" "" "Normal"
+LangName: 1069 "" "" "Arrunta"
+LangName: 1033 "+AKkA 2006 Microsoft Corporation. All Rights Reserved." "" "Regular" "FontForge 2.0 : VerdanaCamel : 2-10-2016" "" "Version 5.01x" "" "Verdana is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries." "Carter & Cone" "Matthew Carter" "" "" "" "Copyright (c) 2016, Eric Fortis (<URL|email>),+AAoA-with Reserved Font Name VerdanaCamel.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 3 8 2 16 1 65535 3 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -1635,8 +1635,11 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 33 14
-BeginChars: 65717 913
+WinInfo: 65274 33 14
+BeginPrivate: 0
+EndPrivate
+TeXData: 1 0 0 896000 448000 298666 571904 -1048576 298666 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+BeginChars: 65719 914
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -2995,7 +2998,6 @@ SplineSet
  766 -333 766 -333 843 -402 c 1,21,-1
  843 -412 l 1,0,-1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates lookup 0 subtable" parenright
 EndChar
 
 StartChar: parenright
@@ -3129,7 +3131,6 @@ SplineSet
  643 1353 643 1353 741 1113 c 128,-1,21
  839 873 839 873 839 572 c 256,0,1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates lookup 0 subtable" parenleft
 EndChar
 
 StartChar: asterisk
@@ -5959,7 +5960,6 @@ SplineSet
  1194 257 l 1,6,-1
  1194 77 l 1,0,-1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates lookup 0 subtable" greater
 EndChar
 
 StartChar: equal
@@ -6151,7 +6151,6 @@ SplineSet
  1248 714 l 1,6,-1
  1248 590 l 1,0,-1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates lookup 0 subtable" less
 EndChar
 
 StartChar: question
@@ -12327,7 +12326,6 @@ SplineSet
  759 -249 l 1,7,-1
  759 -392 l 1,0,-1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates lookup 0 subtable" bracketright
 EndChar
 
 StartChar: backslash
@@ -12512,7 +12510,6 @@ SplineSet
  691 1556 l 1,7,-1
  691 -392 l 1,0,-1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates lookup 0 subtable" bracketleft
 EndChar
 
 StartChar: asciicircum
@@ -19695,7 +19692,6 @@ SplineSet
  1001 -254 l 1,37,-1
  1001 -392 l 1,0,-1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates lookup 0 subtable" braceright
 EndChar
 
 StartChar: bar
@@ -19886,7 +19882,6 @@ SplineSet
  1003 660 l 1,37,-1
  1003 504 l 1,0,-1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates lookup 0 subtable" braceleft
 EndChar
 
 StartChar: asciitilde
@@ -78491,7 +78486,6 @@ SplineSet
  736 371 l 1,6,-1
  736 172 l 1,0,-1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates lookup 0 subtable" guilsinglright
 EndChar
 
 StartChar: guilsinglright
@@ -78555,7 +78549,6 @@ SplineSet
  744 697 l 1,6,-1
  744 608 l 1,0,-1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates lookup 0 subtable" guilsinglleft
 EndChar
 
 StartChar: exclamdbl
@@ -93174,6 +93167,38 @@ SplineSet
  296 -115 l 1,3,-1
  517 -115 l 1,0,-1
 EndSplineSet
+EndChar
+
+StartChar: strict_not_equal
+Encoding: 65717 -1 913
+Width: 3990
+GlyphClass: 3
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+2144.16503906 1445 m 5,0,-1
+ 2294.16503906 1445 l 5,1,-1
+ 1721.45117188 170 l 5,2,-1
+ 1571.45117188 170 l 5,3,-1
+ 2144.16503906 1445 l 5,0,-1
+3924 1040 m 5,4,-1
+ 71 1040 l 5,5,-1
+ 71 1200 l 5,6,-1
+ 3924 1200 l 5,7,-1
+ 3924 1040 l 5,4,-1
+3924 701 m 5,8,-1
+ 71 701 l 5,9,-1
+ 71 861 l 5,10,-1
+ 3924 861 l 5,11,-1
+ 3924 701 l 5,8,-1
+3924 362 m 5,12,-1
+ 71 362 l 5,13,-1
+ 71 522 l 5,14,-1
+ 3924 522 l 5,15,-1
+ 3924 362 l 5,12,-1
+EndSplineSet
+LCarets2: 2 0 0
 EndChar
 EndChars
 EndSplineFont
