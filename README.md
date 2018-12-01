@@ -5,7 +5,8 @@ A proportional sans-serif font with extra left padding in capital case letters. 
 Modified with [FontForge](https://fontforge.github.io/en-US/).
 
 ##To do
-- Ligatures
+- Ligatures for ::
+- More inner space in `(`, `)`, `[`, `]`
 
 ##Other thoughts
 This effect can be simulated in monospaced fonts by condensing capital case letters.

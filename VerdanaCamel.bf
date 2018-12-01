@@ -256,7 +256,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</license>
 
 <collection unicode="U+28" svg="false">
 	<selected id="1"/>
-	<glyph id="1" left="-3.5225325637023843" right="61.186014193891026">
+	<glyph id="1" left="-3.5225325637023843" right="72.614033715206119">
 		<layer name= "Layer" visible="true">
 			<path data="S 41.1621090000,-20.1171880000 L 29.9804690000,-20.1171880000 Q 21.3378910000,-10.2050780000 16.5527345000,1.5136720000 Q 11.7675780000,13.2324220000 11.7675780000,27.9296880000 Q 11.7675780000,42.6269530000 16.5527345000,54.3457030000 Q 21.3378910000,66.0644530000 29.9804690000,75.9765620000 L 41.1621090000,75.9765620000 L 41.1621090000,75.4882810000 Q 37.2070310000,71.9238280000 33.6181640000,67.2607420000 Q 30.0292970000,62.5976560000 26.9531250000,56.3964840000 Q 24.0234380000,50.3906250000 22.1923830000,43.1640625000 Q 20.3613280000,35.9375000000 20.3613280000,27.9296880000 Q 20.3613280000,19.5800780000 22.1435545000,12.6464845000 Q 23.9257810000,5.7128910000 26.9531250000,-0.5371090000 Q 29.8828120000,-6.5429690000 33.6425780000,-11.4013675000 Q 37.4023440000,-16.2597660000 41.1621090000,-19.6289060000 L 41.1621090000,-20.1171880000" />
 		</layer>
@@ -265,7 +265,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</license>
 
 <collection unicode="U+29" svg="false">
 	<selected id="1"/>
-	<glyph id="1" left="-8.5868862872699765" right="55.118221112787637">
+	<glyph id="1" left="-19.872011952191201" right="55.118221112787637">
 		<layer name= "Layer" visible="true">
 			<path data="S 40.9667970000,27.9296880000 Q 40.9667970000,13.2324220000 36.1816405000,1.5136720000 Q 31.3964840000,-10.2050780000 22.7539060000,-20.1171880000 L 11.5722660000,-20.1171880000 L 11.5722660000,-19.6289060000 Q 15.3320310000,-16.2597660000 19.1162110000,-11.4013675000 Q 22.9003910000,-6.5429690000 25.7812500000,-0.5371090000 Q 28.8085940000,5.7128910000 30.5908205000,12.6464845000 Q 32.3730470000,19.5800780000 32.3730470000,27.9296880000 Q 32.3730470000,35.9375000000 30.5664065000,43.1640625000 Q 28.7597660000,50.3906250000 25.7812500000,56.3964840000 Q 22.7050780000,62.5976560000 19.1162110000,67.2607420000 Q 15.5273440000,71.9238280000 11.5722660000,75.4882810000 L 11.5722660000,75.9765620000 L 22.7539060000,75.9765620000 Q 31.3964840000,66.0644530000 36.1816405000,54.3457030000 Q 40.9667970000,42.6269530000 40.9667970000,27.9296880000" />
 		</layer>
@@ -761,7 +761,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</license>
 
 <collection unicode="U+5b" svg="false">
 	<selected id="1"/>
-	<glyph id="1" left="-10.419840219411867" right="59.89667538424419">
+	<glyph id="1" left="-10.419840219411867" right="71.128984063745008">
 		<layer name= "Layer" visible="true">
 			<path data="S 37.0605470000,-19.1406250000 L 11.6699220000,-19.1406250000 L 11.6699220000,75.9765620000 L 37.0605470000,75.9765620000 L 37.0605470000,68.9941410000 L 20.1660160000,68.9941410000 L 20.1660160000,-12.1582030000 L 37.0605470000,-12.1582030000 L 37.0605470000,-19.1406250000" />
 		</layer>
@@ -779,7 +779,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</license>
 
 <collection unicode="U+5d" svg="false">
 	<selected id="1"/>
-	<glyph id="1" left="-13.53683148335017" right="55.976791120080634">
+	<glyph id="1" left="-25.737549800796842" right="55.976791120080634">
 		<layer name= "Layer" visible="true">
 			<path data="S 33.7402340000,-19.1406250000 L 8.3496090000,-19.1406250000 L 8.3496090000,-12.1582030000 L 25.2441410000,-12.1582030000 L 25.2441410000,68.9941410000 L 8.3496090000,68.9941410000 L 8.3496090000,75.9765620000 L 33.7402340000,75.9765620000 L 33.7402340000,-19.1406250000" />
 		</layer>
@@ -7660,13 +7660,13 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</license>
 
 <ligature sequence="r e t u r n" replacement="return"/>
 <ligature sequence="T O D O" replacement="TODO"/>
-<ligature sequence="! = =" replacement="strict_not_equal"/>
 <ligature sequence="= = =" replacement="strict_equal"/>
-<ligature sequence="| |" replacement="or"/>
-<ligature sequence="ampersandgt; =" replacement="gte"/>
-<ligature sequence="ampersandlt; =" replacement="lte"/>
+<ligature sequence="! = =" replacement="strict_not_equal"/>
 <ligature sequence="= ampersandgt;" replacement="fat_arrow"/>
+<ligature sequence="ampersandlt; =" replacement="lte"/>
+<ligature sequence="| |" replacement="or"/>
 <ligature sequence="ampersandamp; ampersandamp;" replacement="and"/>
+<ligature sequence="ampersandgt; =" replacement="gte"/>
 
 <kerning left="K" right="­" hadjustment="-5.3710937500" />
 <kerning left="A" right="‘" hadjustment="-2.4414062500" />
@@ -7820,8 +7820,8 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</license>
 <kerning left="Q" right="," hadjustment="-1.4648437500" />
 <kerning left="k" right="–" hadjustment="-4.8828125000" />
 <kerning left="Y" right=":" hadjustment="-9.7656250000" />
-<kerning left="k" right="—" hadjustment="-4.8828125000" />
 <kerning left="y" right="o" hadjustment="-0.8789062500" />
+<kerning left="k" right="—" hadjustment="-4.8828125000" />
 <kerning left="T" right="­" hadjustment="-7.3242187500" />
 <kerning left="Q" right="." hadjustment="-1.4648437500" />
 <kerning left="y" right="q" hadjustment="-0.4882812500" />
@@ -7932,8 +7932,8 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</license>
 <kerning left="V" right="ø" hadjustment="-4.8828125000" />
 <kerning left="Z" right="C" hadjustment="-0.9765625000" />
 <kerning left="X" right="Ø" hadjustment="-0.4882812500" />
-<kerning left="’" right="…" hadjustment="-10.2539062500" />
 <kerning left="J" right="," hadjustment="-0.9765625000" />
+<kerning left="’" right="…" hadjustment="-10.2539062500" />
 <kerning left="­" right="a" hadjustment="-0.9765625000" />
 <kerning left="Y" right="­" hadjustment="-6.8359375000" />
 <kerning left="Z" right="G" hadjustment="-0.9765625000" />
