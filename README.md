@@ -5,14 +5,18 @@ A proportional sans-serif font with extra left padding in capital case letters. 
 Modified with [FontForge](https://fontforge.github.io/en-US/).
 
 ##To do
-- Ligatures for `::`
+- Ligature for `::`
+- Ligature for `()`
 - Ligature for `export` (not so fancy as return but more visible)
-- More space around `/`
+- Ligature for `throw` (not so fancy as return but more visible)
+- Ligature for `then` in the bold font (but to make lighter and thinner)
+- Ligature for `this` (smaller)
+- More space around `/` for imports (bold and regular)
 - More space around `.`
 - More space around `(` and `)`
 - More space before `M` 
-- Smaller `this`
-- Try another font, because this one is too large. (I guess because of the bold offset)
+
 
 ##Other thoughts
-This effect can be simulated in monospaced fonts by condensing capital case letters.
+- Try another font, because this one is too large. (I guess because of the bold offset)
+- Alternatively, in monospaced fonts, condense capital case letters.
