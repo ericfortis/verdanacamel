@@ -6,6 +6,7 @@ Modified with [FontForge](https://fontforge.github.io/en-US/).
 
 ##To do
 - Ligature for `...`
+- Ligature for `../` (for directories ../../)
 - Ligature for `()`
 - Ligature for `export` (not so fancy as return but more visible)
 - Ligature for `throw` (not so fancy as return but more visible)

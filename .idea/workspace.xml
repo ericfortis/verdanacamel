@@ -26,8 +26,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="161">
-                <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <first_editor relative-caret-position="184">
+                <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
               </first_editor>
               <second_editor />
             </state>
@@ -73,6 +73,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v6.6.0/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -151,8 +152,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="161">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <first_editor relative-caret-position="184">
+            <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
           </first_editor>
           <second_editor />
         </state>
