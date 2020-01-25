@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="15654776-62a6-4d8f-a4ef-6ed626fb0013" name="Default" comment="Tasks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +16,9 @@
     <favorites_list name="VerdanaCamel" />
   </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="580" />
@@ -71,5 +71,15 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Tasks" />
     <option name="LAST_COMMIT_MESSAGE" value="Tasks" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="158" y="266" key="Vcs.Push.Dialog.v2" timestamp="1579945950265">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="158" y="266" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1579945950265" />
+    <state x="341" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579945948133">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1579945948133" />
   </component>
 </project>
