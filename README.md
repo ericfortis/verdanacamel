@@ -5,6 +5,7 @@ A proportional sans-serif font with extra left padding in capital case letters. 
 Modified with [FontForge](https://fontforge.github.io/en-US/).
 
 ##To do
+- Make `"` longer, so it's easier to read e.g. `'"foo"'`, also add more horizontal spacing.
 - Larger return ligature
 - Ligature for `...`
 - Ligature for `../` (for directories ../../)
