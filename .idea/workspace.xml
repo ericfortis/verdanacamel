@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15654776-62a6-4d8f-a4ef-6ed626fb0013" name="Default" comment="Tasks">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="15654776-62a6-4d8f-a4ef-6ed626fb0013" name="Default" comment="Doc" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,13 +68,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tasks" />
+    <MESSAGE value="Doc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Doc" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="158" y="266" key="Vcs.Push.Dialog.v2" timestamp="1579945950265">
+    <state x="165" y="128" key="CommitChangelistDialog2" timestamp="1579946344589">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="158" y="266" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1579945950265" />
+    <state x="165" y="128" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1579946344589" />
+    <state x="158" y="266" key="Vcs.Push.Dialog.v2" timestamp="1579946346310">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="158" y="266" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1579946346310" />
     <state x="341" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579945948133">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
