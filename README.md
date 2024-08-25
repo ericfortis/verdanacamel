@@ -1,10 +1,12 @@
-#VerdanaCamel
+# VerdanaCamel
 
 A proportional sans-serif font with extra left padding in capital case letters. And wider a space glyph.
 
-Modified with [FontForge](https://fontforge.github.io/en-US/).
+Here’s a side-by-side with one of the most readable monospace typeface.
+![](./verdana-camel-vs-jetbrains-mono.jpeg)
 
-##To do
+
+## To Do
 - Remove the padding around `===` so it can be used for a solid long line
 - Make `"` longer, so it's easier to read e.g. `'"foo"'`, also add more horizontal spacing.
 - Larger return ligature
@@ -24,6 +26,9 @@ Modified with [FontForge](https://fontforge.github.io/en-US/).
 - More space before `M` 
 
 
-##Other thoughts
-- Try another font, because this one is too large (byte size). (I guess because of the bold offset)
+## Other thoughts
+- Try another font, because this one is too large (byte size). I guess it’s because I naively made the bold font by offsetting the normal one.
 - Alternatively, in monospaced fonts, condense capital case letters.
+ 
+ 
+Modified with [FontForge](https://fontforge.github.io/en-US/).
