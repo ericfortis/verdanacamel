@@ -14,9 +14,15 @@ So to avoid confusion, the normal space glyph is much wider. It takes about
 10 minutes to get used to that extra padding.
 
 Also, `!`, `?`, and `:` are oversized so it's easier to spot them.
-By the same token, `return`, `throw`, and `TODO` have a solid background.
+By the same token, `return`, `throw`, and `TODO` have a solid background. 
 
 <img src="docs/demo-ligatures.png" style="width:600px">
+
+### Weights
+- Regular (currently, this is the only weight with ligatures)
+- Italic
+- SemiBold
+- SemiBoldItalic
 
 
 ### Release notes
@@ -34,3 +40,13 @@ The [docs/](/docs) folder explains how it was done.
 
 <img src="docs/verdana-camel-vs-jetbrains-mono.jpeg" style="width:560px" />
 
+
+### Motivation
+The code snippet above was the motivation behind the camelization kerning. 
+The day I wrote that code I was tired enough to notice that I had to make 
+an extra effort to read those camelCase names. So I tried all the fonts I 
+had installed and Verdana stood out. Then, I tweaked the kerning until it 
+was suitable for coding. The first version had very little left padding on
+uppercase letters because I thought it would be confusing. But after a few 
+minutes of using it I noticed I could increase it even more, provided the 
+normal space glyph was wide enough.

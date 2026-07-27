@@ -6,7 +6,7 @@ languagesystem latn dflt;
 # Technically these should be done with a `clig` but I couldn't figure out how to use contextual ligatures.
 # https://learn.microsoft.com/en-us/typography/opentype/spec/features_ae#clig
 @STOP_AT_GLYPHS = [\A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z
-            \a \b \c \d \e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u \v \w \x \y \z
+                   \a \b \c \d \e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u \v \w \x \y \z
             zero one two three four five six seven eight nine underscore hyphen period ];
 
 lookup return_liga_ctx {
@@ -65,10 +65,10 @@ table GDEF {
 lookup camelanaCaps0 {
   lookupflag 0;
     sub [\a \b \c \d \e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u \v \w \x \y \z ]
-       [\A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z ]'
+        [\A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z ]'
        by
        [\A.lpad \B.lpad \C.lpad \D.lpad \E.lpad \F.lpad \G.lpad \H.lpad \I.lpad \J.lpad \K.lpad \L.lpad \M.lpad \N.lpad \O.lpad
-	     \P.lpad \Q.lpad \R.lpad \S.lpad \T.lpad \U.lpad \V.lpad \W.lpad \X.lpad \Y.lpad \Z.lpad ];
+	      \P.lpad \Q.lpad \R.lpad \S.lpad \T.lpad \U.lpad \V.lpad \W.lpad \X.lpad \Y.lpad \Z.lpad ];
 } camelanaCaps0;
 
 
