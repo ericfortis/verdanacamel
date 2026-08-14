@@ -52,6 +52,7 @@ def widen_space(font, factor) -> float:
 	width, lsb = horizontal_metrics['space']
 	new_width = width * factor
 	horizontal_metrics['space'] = (new_width, lsb)
+	horizontal_metrics['uni00A0'] = (new_width, lsb) # nbsp
 	return new_width
 
 

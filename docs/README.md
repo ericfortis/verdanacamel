@@ -10,7 +10,7 @@ scripts/Noto_Sans/static/NotoSans-*.ttf
 
 ## 2. Camelize
 This step programmatically:
-- Widens the space char (4x)
+- Widens the space and nbsp chars (4x). VSCode replaces space with nbsp.
 - Adds new uppercase glyphs with `0.33*new_space_width` of left padding. The new glyphs 
 are called the same but with a `.lpad` suffix. 
 - Just for testing, at this point we also create their substitution rule, which is: 
