@@ -36,11 +36,24 @@ lookup camelanaLigs0 {
     sub \T \O \D \O  by \TODO.liga;
     sub \hyphen \greater  by \hyphen_greater.liga;
     sub \colon \equal  by \colon_equal.liga;
+
+    sub \space \slash \space  by \slash.liga;
+    sub \space \asterisk \space  by \asterisk.liga;
+    sub \space \asterisk \asterisk \space  by \asterisk_asterisk.liga;
+
+    # for VSCode
+    sub \uni00A0 \slash \uni00A0  by \slash.liga;
+    sub \uni00A0 \asterisk \uni00A0  by \asterisk.liga;
+    sub \uni00A0 \asterisk \asterisk \uni00A0  by \asterisk_asterisk.liga;
+
 } camelanaLigs0;
 
 
 # Ligature Carets Positions
 table GDEF {
+  LigatureCaretByPos \slash.liga 370 800;
+  LigatureCaretByPos \asterisk.liga 370 900;
+  LigatureCaretByPos \asterisk_asterisk.liga 375 895 1410;
   LigatureCaretByPos \return.liga 1012 1474 1848 2370 2760;
   LigatureCaretByPos \amp_amp.liga 660;
   LigatureCaretByPos \strict_equal.liga 628 1326;

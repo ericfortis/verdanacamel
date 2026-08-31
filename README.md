@@ -18,6 +18,11 @@ By the same token, `return`, `throw`, and `TODO` have a solid background.
 
 <img src="docs/demo-ligatures.png" style="width:600px">
 
+Also, there are ligatures for ` * `, ` / `, and ` ** ` when surrounded by spaces,
+so math operators resemble their precedence.
+
+<img src="docs/demo-ligatures-math.png" style="width:300px">
+
 ### Weights
 - Regular (currently, this is the only weight with ligatures)
 - Italic
